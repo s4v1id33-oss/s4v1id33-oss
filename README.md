@@ -19,6 +19,9 @@
 * **Tools:** Python, Bash, Kali Linux, Go.
 
 ---
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4v1id33-oss&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Saviid" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4v1id33-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes de Saviid" />
 </div>
